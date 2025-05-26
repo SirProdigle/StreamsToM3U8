@@ -2,42 +2,42 @@
   <channel id="CCTV.tt">
     <display-name lang="en">City Cat TV</display-name>
   </channel>
-  <programme channel="CCTV.tt" start="20250502030000 +0100" stop="20250502060000 +0100">
+  <programme channel="CCTV.tt" start="20250526210000 +0100" stop="20250527000000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="CCTV.tt" start="20250502060000 +0100" stop="20250502090000 +0100">
+  <programme channel="CCTV.tt" start="20250527000000 +0100" stop="20250527030000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="CCTV.tt" start="20250502090000 +0100" stop="20250502120000 +0100">
+  <programme channel="CCTV.tt" start="20250527030000 +0100" stop="20250527060000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="CCTV.tt" start="20250502120000 +0100" stop="20250502150000 +0100">
+  <programme channel="CCTV.tt" start="20250527060000 +0100" stop="20250527090000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="CCTV.tt" start="20250502150000 +0100" stop="20250502180000 +0100">
+  <programme channel="CCTV.tt" start="20250527090000 +0100" stop="20250527120000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="CCTV.tt" start="20250502180000 +0100" stop="20250502210000 +0100">
+  <programme channel="CCTV.tt" start="20250527120000 +0100" stop="20250527150000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="CCTV.tt" start="20250502210000 +0100" stop="20250503000000 +0100">
+  <programme channel="CCTV.tt" start="20250527150000 +0100" stop="20250527180000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="CCTV.tt" start="20250503000000 +0100" stop="20250503030000 +0100">
+  <programme channel="CCTV.tt" start="20250527180000 +0100" stop="20250527210000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
@@ -45,87 +45,87 @@
   <channel id="CDVA.tt">
     <display-name lang="en">CDawgVA</display-name>
   </channel>
-  <programme channel="CDVA.tt" start="20250502030000 +0100" stop="20250502060000 +0100">
+  <programme channel="CDVA.tt" start="20250526210000 +0100" stop="20250527000000 +0100">
     <title lang="en">CDawgVA</title>
-    <desc lang="en">IM SICK Diablo Immortal x Berserk THEN GAMES WITH MOUSE #Sponsored | !gamersupps !diablo !backseating</desc>
+    <desc lang="en">[VOD REPLAY] GENERATIONAL WELSH Day 1 Wales Trip  w/ @PremierTwo | !gamersupps !wales !tiltify !submissions !lol</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/49110706-4c6c-4da5-8037-0fbd429405f5-profile_image-300x300.png"/>
   </programme>
-  <programme channel="CDVA.tt" start="20250502060000 +0100" stop="20250502090000 +0100">
+  <programme channel="CDVA.tt" start="20250527000000 +0100" stop="20250527030000 +0100">
     <title lang="en">CDawgVA</title>
-    <desc lang="en">IM SICK Diablo Immortal x Berserk THEN GAMES WITH MOUSE #Sponsored | !gamersupps !diablo !backseating</desc>
+    <desc lang="en">[VOD REPLAY] GENERATIONAL WELSH Day 1 Wales Trip  w/ @PremierTwo | !gamersupps !wales !tiltify !submissions !lol</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/49110706-4c6c-4da5-8037-0fbd429405f5-profile_image-300x300.png"/>
   </programme>
-  <programme channel="CDVA.tt" start="20250502090000 +0100" stop="20250502120000 +0100">
+  <programme channel="CDVA.tt" start="20250527030000 +0100" stop="20250527060000 +0100">
     <title lang="en">CDawgVA</title>
-    <desc lang="en">IM SICK Diablo Immortal x Berserk THEN GAMES WITH MOUSE #Sponsored | !gamersupps !diablo !backseating</desc>
+    <desc lang="en">[VOD REPLAY] GENERATIONAL WELSH Day 1 Wales Trip  w/ @PremierTwo | !gamersupps !wales !tiltify !submissions !lol</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/49110706-4c6c-4da5-8037-0fbd429405f5-profile_image-300x300.png"/>
   </programme>
-  <programme channel="CDVA.tt" start="20250502120000 +0100" stop="20250502150000 +0100">
+  <programme channel="CDVA.tt" start="20250527060000 +0100" stop="20250527090000 +0100">
     <title lang="en">CDawgVA</title>
-    <desc lang="en">IM SICK Diablo Immortal x Berserk THEN GAMES WITH MOUSE #Sponsored | !gamersupps !diablo !backseating</desc>
+    <desc lang="en">[VOD REPLAY] GENERATIONAL WELSH Day 1 Wales Trip  w/ @PremierTwo | !gamersupps !wales !tiltify !submissions !lol</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/49110706-4c6c-4da5-8037-0fbd429405f5-profile_image-300x300.png"/>
   </programme>
-  <programme channel="CDVA.tt" start="20250502150000 +0100" stop="20250502180000 +0100">
+  <programme channel="CDVA.tt" start="20250527090000 +0100" stop="20250527120000 +0100">
     <title lang="en">CDawgVA</title>
-    <desc lang="en">IM SICK Diablo Immortal x Berserk THEN GAMES WITH MOUSE #Sponsored | !gamersupps !diablo !backseating</desc>
+    <desc lang="en">[VOD REPLAY] GENERATIONAL WELSH Day 1 Wales Trip  w/ @PremierTwo | !gamersupps !wales !tiltify !submissions !lol</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/49110706-4c6c-4da5-8037-0fbd429405f5-profile_image-300x300.png"/>
   </programme>
-  <programme channel="CDVA.tt" start="20250502180000 +0100" stop="20250502210000 +0100">
+  <programme channel="CDVA.tt" start="20250527120000 +0100" stop="20250527150000 +0100">
     <title lang="en">CDawgVA</title>
-    <desc lang="en">IM SICK Diablo Immortal x Berserk THEN GAMES WITH MOUSE #Sponsored | !gamersupps !diablo !backseating</desc>
+    <desc lang="en">[VOD REPLAY] GENERATIONAL WELSH Day 1 Wales Trip  w/ @PremierTwo | !gamersupps !wales !tiltify !submissions !lol</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/49110706-4c6c-4da5-8037-0fbd429405f5-profile_image-300x300.png"/>
   </programme>
-  <programme channel="CDVA.tt" start="20250502210000 +0100" stop="20250503000000 +0100">
+  <programme channel="CDVA.tt" start="20250527150000 +0100" stop="20250527180000 +0100">
     <title lang="en">CDawgVA</title>
-    <desc lang="en">IM SICK Diablo Immortal x Berserk THEN GAMES WITH MOUSE #Sponsored | !gamersupps !diablo !backseating</desc>
+    <desc lang="en">[VOD REPLAY] GENERATIONAL WELSH Day 1 Wales Trip  w/ @PremierTwo | !gamersupps !wales !tiltify !submissions !lol</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/49110706-4c6c-4da5-8037-0fbd429405f5-profile_image-300x300.png"/>
   </programme>
-  <programme channel="CDVA.tt" start="20250503000000 +0100" stop="20250503030000 +0100">
+  <programme channel="CDVA.tt" start="20250527180000 +0100" stop="20250527210000 +0100">
     <title lang="en">CDawgVA</title>
-    <desc lang="en">IM SICK Diablo Immortal x Berserk THEN GAMES WITH MOUSE #Sponsored | !gamersupps !diablo !backseating</desc>
+    <desc lang="en">[VOD REPLAY] GENERATIONAL WELSH Day 1 Wales Trip  w/ @PremierTwo | !gamersupps !wales !tiltify !submissions !lol</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/49110706-4c6c-4da5-8037-0fbd429405f5-profile_image-300x300.png"/>
   </programme>
   <channel id="STRP.tt">
     <display-name lang="en">Strippin</display-name>
   </channel>
-  <programme channel="STRP.tt" start="20250502030000 +0100" stop="20250502060000 +0100">
+  <programme channel="STRP.tt" start="20250526210000 +0100" stop="20250527000000 +0100">
     <title lang="en">Strippin</title>
-    <desc lang="en">Clairing your Obscure peeposhy</desc>
+    <desc lang="en">Seeker moving so fast you don't see me die repeatedly</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/64063912-3010-4248-8d25-147e29d65683-profile_image-300x300.png"/>
   </programme>
-  <programme channel="STRP.tt" start="20250502060000 +0100" stop="20250502090000 +0100">
+  <programme channel="STRP.tt" start="20250527000000 +0100" stop="20250527030000 +0100">
     <title lang="en">Strippin</title>
-    <desc lang="en">Clairing your Obscure peeposhy</desc>
+    <desc lang="en">Seeker moving so fast you don't see me die repeatedly</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/64063912-3010-4248-8d25-147e29d65683-profile_image-300x300.png"/>
   </programme>
-  <programme channel="STRP.tt" start="20250502090000 +0100" stop="20250502120000 +0100">
+  <programme channel="STRP.tt" start="20250527030000 +0100" stop="20250527060000 +0100">
     <title lang="en">Strippin</title>
-    <desc lang="en">Clairing your Obscure peeposhy</desc>
+    <desc lang="en">Seeker moving so fast you don't see me die repeatedly</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/64063912-3010-4248-8d25-147e29d65683-profile_image-300x300.png"/>
   </programme>
-  <programme channel="STRP.tt" start="20250502120000 +0100" stop="20250502150000 +0100">
+  <programme channel="STRP.tt" start="20250527060000 +0100" stop="20250527090000 +0100">
     <title lang="en">Strippin</title>
-    <desc lang="en">Clairing your Obscure peeposhy</desc>
+    <desc lang="en">Seeker moving so fast you don't see me die repeatedly</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/64063912-3010-4248-8d25-147e29d65683-profile_image-300x300.png"/>
   </programme>
-  <programme channel="STRP.tt" start="20250502150000 +0100" stop="20250502180000 +0100">
+  <programme channel="STRP.tt" start="20250527090000 +0100" stop="20250527120000 +0100">
     <title lang="en">Strippin</title>
-    <desc lang="en">Clairing your Obscure peeposhy</desc>
+    <desc lang="en">Seeker moving so fast you don't see me die repeatedly</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/64063912-3010-4248-8d25-147e29d65683-profile_image-300x300.png"/>
   </programme>
-  <programme channel="STRP.tt" start="20250502180000 +0100" stop="20250502210000 +0100">
+  <programme channel="STRP.tt" start="20250527120000 +0100" stop="20250527150000 +0100">
     <title lang="en">Strippin</title>
-    <desc lang="en">Clairing your Obscure peeposhy</desc>
+    <desc lang="en">Seeker moving so fast you don't see me die repeatedly</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/64063912-3010-4248-8d25-147e29d65683-profile_image-300x300.png"/>
   </programme>
-  <programme channel="STRP.tt" start="20250502210000 +0100" stop="20250503000000 +0100">
+  <programme channel="STRP.tt" start="20250527150000 +0100" stop="20250527180000 +0100">
     <title lang="en">Strippin</title>
-    <desc lang="en">Clairing your Obscure peeposhy</desc>
+    <desc lang="en">Seeker moving so fast you don't see me die repeatedly</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/64063912-3010-4248-8d25-147e29d65683-profile_image-300x300.png"/>
   </programme>
-  <programme channel="STRP.tt" start="20250503000000 +0100" stop="20250503030000 +0100">
+  <programme channel="STRP.tt" start="20250527180000 +0100" stop="20250527210000 +0100">
     <title lang="en">Strippin</title>
-    <desc lang="en">Clairing your Obscure peeposhy</desc>
+    <desc lang="en">Seeker moving so fast you don't see me die repeatedly</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/64063912-3010-4248-8d25-147e29d65683-profile_image-300x300.png"/>
   </programme>
 </tv>
