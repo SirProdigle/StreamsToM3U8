@@ -10,3 +10,12 @@ https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="NASALive.yt" tvg-name="NASA Starbase Live" group-title="Background", NASA Starbase Live
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
+
+#EXTINF:-1 tvg-id="ShibuyaScramble.yt" tvg-name="渋谷スクランブル交差点 Shibuya Scramble Crossing Live Camera" group-title="Background", 渋谷スクランブル交差点 Shibuya Scramble Crossing Live Camera
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
+
+#EXTINF:-1 tvg-id="CCTV.tt" tvg-name="City Cat TV" group-title="Background", City Cat TV
+https://euc11.playlist.ttvnw.net/v1/playlist/Cu4ElbJ_CmO-iC3YDFZxHsiXJNYtuxWaV5ZC0H_0ExWWK-WHyxwl7LLq1j5nveW4izvOfmhY5AXer-IjGx8U8P7EEwiSsn_AJVstmGJL95YmtQ3f9oBVjX3RymzNkgwyE8Ua0soP9zDD9XmbwkAWnQQr3SlH_a3IxdoCtbgJnVlETLaB6ho7_brfsC59X5ps89_7X65x4nhnuPcE7QjnikApkjPUR1AiXF_IqW1T8v9LP3cyDcIJwuZvugLY9YRNPTruIH7K3EJ-S2EOU9YeLLZV1tXzdHd9AJAgbAKVguja6DyknGkMIMGYnOGllwRjxCa9ExZe4UGX_1L67-bC3Xh8Rl1sBwa6JD3akBxIiSAh3U5iTkEetU_DCZfEiOMmL-mMalAwi5JoigQ8laLMzP2Q4xB86GgRzbEHaweRSoRuVmJxvzn6uM1iXu5T8VUWVhnGFhTJNrZsGhJ1Y-2JlCqfcgctJmDvJ2G5augImRWapBRj3xEpWV6PCFDQF5C9lvc8hS-CQhlj5nnZ6Qp9AKQG4LkKTUMgde7SynaXCJto-AHRgZ6WxR6jFP5OWP8UOX9ZzVjNACHM5TOsKoQtQFZQIYVQeVhQrBpen6WuXu2n-ZFjAGTzbk43Bk5zXXTBltwWbTugAKaGl1defKDGD40P_eHRwMnKnGaZVxilCEqstrrN4-NJHEj3Mcn2NopDMDdlrl4VwdHaZ6eAr7TcvUBpKQVzdmIlbSA71ZS5fJexgbTpNabAW9vFMExEU_Z-qplSJ8XflNGFk7Uo6_Oh6pGwreGHQPiAVFtaCu55LEPjWFtaa1kzB16sBYUBB9AA9hoMkDu_Re3AFGPUe0dNIAEqCXVzLWVhc3QtMjD8DQ.m3u8
+
+#EXTINF:-1 tvg-id="CDVA.tt" tvg-name="CDawgVA" group-title="Gaming", CDawgVA
